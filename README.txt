@@ -1,13 +1,25 @@
-How to Use:
-Clone the Repository:
-"git clone https://github.com/teymim/OS-CHECKER/blob/main/os-checker.py"
+# OS Version Checker
 
-Run the Script:
-Ensure you have Python installed on your system. Then, execute the script using the following command:
-"python os_version_checker.py"
+## Description
 
-Output Example:
-The script will output the OS name and version
+The **OS Version Checker** is a Python script designed to retrieve and display the name and version of the operating system on a remote machine identified by its IP address. This tool is useful for developers, system administrators, and security professionals who need to quickly check OS details on remote systems.
 
-example:
-"Operating System: Windows 10 - Checked by ZERO-DAY"
+## Features
+
+- **Remote OS Checking:** Input an IP address to retrieve the OS information for that specific machine.
+- **Cross-Platform Compatibility:** Supports Windows, Linux, and macOS.
+- **Simple and Clean Code:** Written in Python, the script is easy to understand and modify.
+- **Personalized Output:** Displays the OS information along with the author name "ZERO-DAY," giving it a unique touch.
+
+## Requirements
+
+- Python 3.x
+- `socket` and `platform` modules (included with Python standard library)
+
+## Usage
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/teymim/OS-CHECKER.git
+   cd OS-CHECKER
