@@ -9,7 +9,6 @@ The **OS Version Checker** is a Python script designed to retrieve and display t
 - **Remote OS Checking:** Input an IP address to retrieve the OS information for that specific machine.
 - **Cross-Platform Compatibility:** Supports Windows, Linux, and macOS.
 - **Simple and Clean Code:** Written in Python, the script is easy to understand and modify.
-- **Personalized Output:** Displays the OS information along with the author name "ZERO-DAY," giving it a unique touch.
 
 ## Requirements
 
